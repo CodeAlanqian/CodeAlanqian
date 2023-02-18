@@ -4,11 +4,11 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlanqian&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img style="width:200px;" align="center" src="https://github-readme-stats.vercel.app/api?username=CodeAlanqian" />
+<a href="https://github.com/anuraghazra/github-readme-stats" style="length:200px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeAlanqian" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat" style="width:200px;">
-  <img style="width:200px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlanqian" />
+<a href="https://github.com/anuraghazra/convoychat" style="length:200px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlanqian" />
 </a>
 
 
