@@ -4,7 +4,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlanqian&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-![](https://raw.githubusercontent.com/CodeAlanqian/CodeAlanqian/main/assets/github-contribution-grid-snake.svg)
+
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeAlanqian" />
@@ -36,6 +36,9 @@
 <img src="https://img.shields.io/badge/-ROS-563D7C?style=flat-square&logo=ros"/>
 <!-- <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/> -->
 </p>
+
+![](https://raw.githubusercontent.com/CodeAlanqian/CodeAlanqian/main/assets/github-contribution-grid-snake.svg)
+
 
 <!--
 **CodeAlanqian/CodeAlanqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
