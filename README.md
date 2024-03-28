@@ -1,6 +1,6 @@
 ### Hi there 👋 This is 龚易乾
 
-- 🎓 I am an undergraduate majoring in Communication Engineering at South China Normal University（SCNU，华南师范大学）
+- 🎓 I am an undergraduate student majoring in Communication Engineering at South China Normal University（SCNU，华南师范大学）
 - 🔭 I’m currently working for VANGUARD, RoboMaster team of SCNU
 - 🦾 I can program in C/C++, Python and Java
 - 🌱 I’m currently learning SLAM and RL
