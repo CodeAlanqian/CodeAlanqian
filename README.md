@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 This is 龚易乾
+
+- 🎓 I am an undergraduate majoring in Communication Engineering at South China Normal University（SCNU，华南师范大学）
+- 🔭 I’m currently working for VANGUARD, RoboMaster team of SCNU
+- 🦾 I can program in C/C++, Python and Java
+- 🌱 I’m currently learning SLAM and RL
+- 📫 How to reach me: Email: codealan@qq.com QQ: 2546379375
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeAlanqian)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlanqian&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
