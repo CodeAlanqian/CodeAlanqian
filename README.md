@@ -1,9 +1,10 @@
 ### Hi there 👋 This is 龚易乾
 
-- 🎓 I am an undergraduate student majoring in Communication Engineering at South China Normal University（SCNU，华南师范大学）
-- 🔭 I’m currently working for VANGUARD, RoboMaster team of SCNU
-- 🦾 I can program in C/C++, Python and Java
-- 🌱 I’m currently learning SLAM and RL
+- 🎓 I’m currently pursuing a Master’s degree in Electronic Information at Southern University of Science and Technology (SUSTech).
+- 🔬 My research focuses on Vision-Language Navigation (VLN), with applications in indoor and ground-based UAVs.
+- 🧠 I’m exploring Reinforcement Learning (RL) and Large Language Models (LLMs).
+- 🦾 I can program in C/C++, Python, Java, GO, QT, Futter, etc.
+- 🤖 Previously, I worked with **VANGUARD**, the RoboMaster team of South China Normal University (SCNU), where I earned my Bachelor’s degree in Communication Engineering.
 - 📫 How to reach me: Email: codealan@qq.com QQ: 2546379375
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeAlanqian)](https://github.com/anuraghazra/github-readme-stats) -->
 
