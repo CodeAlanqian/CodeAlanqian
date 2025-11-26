@@ -6,7 +6,7 @@
 - 🦾 I can program in C/C++, Python, Java, GO, QT, Futter, etc.
 - 🤖 Previously, I worked with **VANGUARD**, the RoboMaster team of South China Normal University (SCNU), where I earned my Bachelor’s degree in Communication Engineering.
 - 📫 How to reach me: Email: codealan@qq.com QQ: 2546379375
-- 🚀 Homepage: [CodeAlan's Blog: codealan.top](codealan.top)
+- 🚀 Homepage: [CodeAlan's Blog: codealan.top](https://codealan.top)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeAlanqian)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlanqian&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
