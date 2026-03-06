@@ -12,14 +12,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlanqian&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-
-
-<p align="center">
-  <a href="https://codealan.top" target="_blank">
-    <img src="https://images.weserv.nl/?url=www.codealan.top&output=jpg" alt="homepage preview" width="90%" />
-  </a>
-</p>
-
 <!-- <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
