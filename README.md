@@ -14,9 +14,10 @@
 
 
 
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeAlanqian" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlanqian&layout=compact" />
+<p align="center">
+  <a href="https://codealan.top" target="_blank">
+    <img src="https://images.weserv.nl/?url=www.codealan.top&output=jpg" alt="homepage preview" width="90%" />
+  </a>
 </p>
 
 <!-- <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
